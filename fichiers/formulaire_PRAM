@@ -1,0 +1,56 @@
+# Nom du formualaire : Formulaire PRAM (inventaire et suivi de mares)
+## Description : formulaire d'inventaire et suivi des mares d'Occitanie
+### Auteur(s)
+-> Formulaire développé par Liza Jabbour au CEN Occitanie dans le cadre de sa formation au sein du Master 2 SIGMA (ENSAT – INP)
+### Objectif
+Dans le cadre du projet PRAM, le CEN Occitanie a décidé de mettre en place des outils de saisie et de suivi des mares d’Occitanie en lien avec les PRAM d’autres régions. Ce formulaire permet de saisir des fiches descriptives de mares que ce soit dans une plateforme web ou sur un terminal mobile (ODK). Ces fiches seront ensuite consultables depuis l’application web du PRAM CEN Occitanie. 
+-> Lien vers le formulaire
+-> Lien vers l’application PRAM du CEN Occitanie
+
+#### Protocole mis en oeuvre
+-> lien vers le pdf ou autre ressource
+## Logique du formulaire
+- Sélection de l’étude/protocole
+- Sélection de la structure 
+- Géolocalisation de la mare
+- Sélection du type de foncier 
+- Description de la nature du fond de la mare
+- Sélection du pourcentage des pentes douces des berges
+- Sélection de la typologie de la mare
+- Description du contexte général de la mare
+- Description du contexte précis de la mare
+    - Option de protection de la biodiversité
+- élection de la périodicité de la mare
+- Sélection des différents stades d’évolution de la mare 
+- Sélection des différents types de liaison hydrologique
+- Sélection des différents types d’alimentation en eau
+- Superficie en m2
+- Analyses physico-chimique
+    - Turbidité de l’eau
+    - Ph de l’eau
+    - Température de l’eau
+    - Oxygène dissout
+    - Conductivité de l’eau
+    - Productivité de l’eau
+    - Couleur de l’eau 
+- Les pressions et menaces
+- Intensité des pressions et menaces
+- Types de végétations aquatiques
+    - Taux de recouvrement de la végétation aquatique
+- Gestion et restauration
+- Fermeture de la mare
+- Accessibilité de la mare
+- Type de véhicule
+- Photos de la mare
+- Observations générales
+
+## Présentation détaillée
+### Logique de collecte
+### Captures d'écrans et démos
+### Déployer le formulaire
+## Lien vers XLSform
+## Lien vers données externes et médias associés
+## Traitement des données
+### Scripts SQL
+### Scripts R
+### Autres
